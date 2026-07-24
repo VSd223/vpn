@@ -1,4 +1,4 @@
-#profile-update-interval: 24
+#profile-update-interval: 1
 #profile-title: RtpVpn
 #support-url: https://t.me/RtpBox
 #profile-web-page-url: https://t.me/RtpBox
@@ -10,6 +10,12 @@
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?encryption=none#это пингер от @RtpVadim
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?encryption=none#конфиги взяты из открытых источников
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?encryption=none#@RtpTunBot обход за 40 руб в мес с кучей стран
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:443?path=%2Fapi%2Fv1%2Fmake-love-not-war&security=tls&encryption=none&insecure=0&host=furrycdn.net&fp=chrome&type=ws&allowInsecure=0&sni=furrycdn.net#%F0%9F%87%BA%F0%9F%87%B3%20UN%20%7C%201069ms
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:443?path=%2Fapi%2Fv1%2Fmake-love-not-war&security=tls&encryption=none&insecure=0&host=furrycdn.net&fp=firefox&type=ws&allowInsecure=0&sni=furrycdn.net#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20Timeout
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:443?path=%2Fapi%2Fv1%2Fmake-love-not-war&security=tls&encryption=none&insecure=0&host=furrycdn.net&fp=chrome&type=ws&allowInsecure=0&sni=furrycdn.net#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20104ms
+hysteria2://1f31377f-a6bc-461f-9745-be3ed0ff4ecd@46.254.18.107:9443?security=tls&insecure=0&sni=newlte.kihsuyhf8jkiugsxb.cfd#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20Timeout
+vless://8bdaaef0-44b3-4f2f-8858-aa4d16a64e92@213.219.212.24:443?security=reality&encryption=none&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pro-ru-213.emrata.top#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%2097ms
+vless://8bdaaef0-44b3-4f2f-8858-aa4d16a64e92@213.219.212.24:443?security=reality&encryption=none&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pro-ru-213.emrata.top#%F0%9F%87%BA%F0%9F%87%B3%20UN%20%7C%20138ms
 vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@78.159.250.214:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%2031ms
 vless://2bab51a5-30bc-415e-90c5-6e3dec6decfc@194.55.239.212:443?path=%2Fapi%2Fv1%2Fvideo-stream&security=tls&encryption=none&insecure=0&host=furrycdn.net&fp=firefox&type=ws&allowInsecure=0&sni=furrycdn.net#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%2042ms
 vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@78.159.250.214:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%2044ms
