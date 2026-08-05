@@ -10,6 +10,13 @@
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?encryption=none#это пингер от @RtpVadim
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?encryption=none#конфиги взяты из открытых источников
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?encryption=none#@RtpTunBot обход за 40 руб в мес с кучей стран
+vless://9c639277-373a-4e66-8987-982b172972ae@fl1.vpnifty.ru:18443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=7cjXiyeAfM-T8WIAKKfqXtNn4Myv0Tm8N0OaXm2QAkU&security=reality&sni=fl1.vpnifty.ru&type=tcp#%E2%9A%A1%EF%B8%8FAUTO
+vless://9c639277-373a-4e66-8987-982b172972ae@nl.vpnifty.ru:18443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=7cjXiyeAfM-T8WIAKKfqXtNn4Myv0Tm8N0OaXm2QAkU&security=reality&sni=nl.vpnifty.ru&type=tcp#%E2%9A%A1%EF%B8%8FAUTO
+vless://9c639277-373a-4e66-8987-982b172972ae@fl1.vpnifty.ru:443?encryption=none&security=tls&type=xhttp#%E2%9A%A1%EF%B8%8FAUTO
+vless://9c639277-373a-4e66-8987-982b172972ae@217.60.33.85:8443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=CO1cX5I7eLh6PuGuQ--wx-SRgc5pEiBgBbZLiZXKyXk&security=reality&sni=www.icloud.com&type=tcp#%E2%9A%A1%EF%B8%8FAUTO
+vless://9c639277-373a-4e66-8987-982b172972ae@ru.vpnifty.ru:8443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=CO1cX5I7eLh6PuGuQ--wx-SRgc5pEiBgBbZLiZXKyXk&security=reality&sni=www.icloud.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vless://9c639277-373a-4e66-8987-982b172972ae@9m2elqsxq4.a.trbcdn.net:443?encryption=none&security=tls&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%91%D0%B5%D0%BB%D1%8B%D1%85%20%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%B2
+vless://9c639277-373a-4e66-8987-982b172972ae@cdn1.vpnifty.ru:443?encryption=none&security=tls&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%91%D0%B5%D0%BB%D1%8B%D1%85%20%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%B2
 vless://fd813e1e-6733-0009-a91b-dc74987a50f6@178.248.236.228:14443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=43dcff53849b81e6#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%201134ms
 vless://fd813e1e-6733-0067-a91b-dc74987a50f6@78.159.245.15:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=43dcff53849b81e6#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20170ms
 vless://fd813e1e-6733-0068-a91b-dc74987a50f6@46.8.210.23:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=43dcff53849b81e6#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%201137ms
